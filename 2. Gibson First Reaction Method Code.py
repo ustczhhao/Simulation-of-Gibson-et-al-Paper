@@ -1,3 +1,10 @@
+"""
+Created on Dec 18, 2015
+Python 3
+       
+"""
+
+
 import numpy as np
 from numpy import random
 import matplotlib.pyplot as plt
