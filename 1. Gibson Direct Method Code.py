@@ -1,3 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Dec 17, 2015
+Python 3
+       
+"""
+
+
+
 import numpy as np
 from numpy import random
 import matplotlib.pyplot as plt
